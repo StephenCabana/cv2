@@ -1,0 +1,104 @@
+body{
+
+background-color: #222831;
+}
+
+.intro{
+  text-align: center;
+  padding-top: 7rem;
+  font-size: 30px;
+
+}
+
+
+.p-1{
+line-height: 0;
+font-style: italic;
+}
+
+.p-2{
+  position: inherit;
+  text-align: center;
+  color: white;
+  width: 20rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 3rem;
+  font-size: 40px;
+  font-family: serif;
+}
+
+.acc{
+  font-size: 40px;
+}
+
+.fonts{
+font-size: 30px;
+}
+
+
+.container-1{
+  background-color:#30475e;
+  display: inline-block;
+  width: 100%;
+  padding-bottom: 3rem;
+
+}
+
+.container-2{
+  background-color: #222831;
+  display: inline-block;
+  width: 100%;
+  display: inline-block;
+}
+
+.container-3{
+  background-color:#30475e;
+
+  width: 100%;
+  height: 10rem;
+
+}
+
+.gyrad{
+  height: 600px;
+  width: 600px;
+  position: absolute;
+  left: 60%;
+  bottom: 0;
+}
+
+.kirby{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  position: absolute;
+
+}
+
+.darth{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  position: absolute;
+  padding-top: 3rem;
+  padding-left: 6rem;
+}
+
+.ninja{
+  width: 150px;
+  height: 100px;
+  display: inline-block;
+  position: absolute;
+  right: 8rem;
+  top: 3rem;
+}
+
+.fett{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  position: absolute;
+  right: 8rem;
+  top: 10rem;
+}
