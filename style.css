@@ -54,7 +54,6 @@ font-size: 30px;
   background-color: #222831;
   display: inline-block;
   width: 100%;
-  display: inline-block;
 }
 
 .container-3{
@@ -76,7 +75,6 @@ font-size: 30px;
 .kirby{
   width: 100px;
   height: 100px;
-  display: inline-block;
   position: absolute;
 
 }
