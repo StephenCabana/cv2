@@ -69,8 +69,8 @@ font-size: 30px;
   height: 400px;
   width: 400px;
   position: absolute;
-  left: 48rem;
-  top: 35rem;
+  left: 140px;
+  top: 58px;
 }
 
 .kirby{
@@ -86,8 +86,8 @@ font-size: 30px;
   height: 200px;
   display: inline-block;
   position: absolute;
-  padding-top: 3rem;
-  padding-left: 6rem;
+  padding-top: 30px;
+  padding-left: 20px;
 }
 
 .ninja{
@@ -95,8 +95,8 @@ font-size: 30px;
   height: 100px;
   display: inline-block;
   position: absolute;
-  right: 8rem;
-  top: 3rem;
+  right: 120px;
+  top: 20px;
 }
 
 .fett{
